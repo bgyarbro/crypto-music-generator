@@ -1,0 +1,12 @@
+# These packages are required. Not sure what versions of python this
+# will and won't work with. I used 3.8
+
+websocket-client
+pyo
+wxPython
+pandas
+numpy
+time
+json
+
+
